@@ -45,7 +45,11 @@
     color: white;
 
 }
+.hamburger{
+    filter: invert(100%);
+    border: none;
 
+}
 
 
 
@@ -60,17 +64,21 @@
     border-radius: 15px;
 }
 header{
-    height: 100px;
     background-color: rgb(20, 20, 73);
-    color: white;
 }
 .content-porfolio{
     border-radius: 20px;
 }
 .content-header{
-    height: 100px;
-    background-color: chocolate;
+    color: white;
+
+
 }
+.content-menu{
+    display: flex;
+    justify-content: flex-end;
+}
+
 .jumbotron-img{
     width: 200px;
 
@@ -94,17 +102,11 @@ header{
     border-left: none;
     border-right: none;
 }
-.content-list{
-    
-    
-}
+
 .style-icons{
     border: 1px solid white;
     border-radius: 50%;
     padding: 10px;
-   
-
-    
 
 }
 
