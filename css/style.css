@@ -119,4 +119,10 @@ header{
 
     
 }
+#style-icon{
+    border: 1px solid #fff;
+    padding: 10px 13px;
+    border-radius: 50%;
+
+}
 
