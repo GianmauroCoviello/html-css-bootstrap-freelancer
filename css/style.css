@@ -41,6 +41,14 @@
 .pink{
     background-color: #ccb2a3;
 }
+.text-white{
+    color: white;
+
+}
+
+
+
+
 /* STYLE UTILITIES*/
 .h-200{
     height: 200px;
@@ -80,5 +88,23 @@ header{
 
 .content-about{
     color: white;
+}
+.border-form{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.content-list{
+    
+    
+}
+.style-icons{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 10px;
+   
+
+    
+
 }
 
